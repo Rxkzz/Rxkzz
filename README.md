@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Rizki Al Habsi</h1>
 <h3 align="center">I am a Web developer from Indonesia</h3>
-<img align="left" src="https://github.com/rorosaurus/FurretTotem/blob/master/logo.gif">
+<img align="right" src="https://github.com/rorosaurus/FurretTotem/blob/master/logo.gif">
 
 - 🌱 I’m currently learning **C#,Python,PHP, Android Dev**
 
