@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Rizki Al Habsi</h1>
 <h3 align="center">backend developer</h3>
-<img align=“right” alt=“” width-“400” src=“[[[https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&f=1&nofb=1&ipt=42c077d7a16edc1fafa337e2cdb411c49f0f44ecd71444ff890225179db37909&ipo=images)](https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif)](https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif)">
+<img align=“right” alt=“” width-“400” src=“https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 - 🌱 I’m currently learning **Astrojs and python**
 
