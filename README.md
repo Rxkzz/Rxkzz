@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Rizki Al Habsi</h1>
 <h3 align="center">A passionate backend developer from Indo</h3>
-<img align=“right” alt=“coding” width-“400” src=“https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
+<img align=“right” alt=“” width-“400” src=“https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
 - 🌱 I’m currently learning **Astrojs and python**
 
